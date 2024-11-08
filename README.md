@@ -43,13 +43,3 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jang1234567&show_icons=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jang1234567&layout=compact&theme=algolia" width="48%" />
-</div>
----
-
-## 📫 연락처
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahseonga11@gmail.com)](mailto:ahseonga11@gmail.com)
