@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐤🐥🐣&fontAlign=70)
-## 안녕하세요. 송아성입니다. 👋
+## 안녕하세요. 백앤드 개발자 송아성입니다. 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahseonga&count_bg=%23F6E7CD&title_bg=%23EBD6A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
