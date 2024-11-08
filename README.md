@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&height=180&section=header&text=🐤%20🐥%20🐣&fontAlign=70&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ## 안녕하세요, 백엔드 개발자 송아성입니다! 👋
 
