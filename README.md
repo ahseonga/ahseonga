@@ -10,6 +10,9 @@
  ---
 
 ## 📁 Projects
+
+<img src="https://github.com/user-attachments/assets/e1658fe4-f839-4661-ada7-2628d45ab8a8" alt="닥터트뤼" width="150"/>
+
 ### [DOCTOR TREAT](https://github.com/ahseonga/DoctorTreat_backend)
 ### 서비스 제작 배경
 
