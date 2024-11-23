@@ -18,6 +18,7 @@
 
 
 <img src="https://github.com/user-attachments/assets/5b7e7f19-d182-4258-8b59-097cd9d4403c" alt="logo" width="80"/>
+
 ### [맛있는 재활용](https://github.com/ahseonga/DR_backend)
 ### 서비스 제작 배경
 
