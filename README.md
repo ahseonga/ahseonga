@@ -7,8 +7,6 @@
 ![ahseonga GitHub stats](https://github-readme-stats.vercel.app/api?username=ahseonga&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahseonga&layout=compact&theme=gotham)](https://github.com/ahseonga/ahseonga)
 
----
-
  ---
 
 ## 📁 Projects
