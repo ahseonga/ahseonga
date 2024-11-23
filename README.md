@@ -11,7 +11,7 @@
 
 ## 📁 Projects
 
-<img src="https://github.com/user-attachments/assets/e1658fe4-f839-4661-ada7-2628d45ab8a8" alt="닥터트뤼" width="150"/>
+<img src="https://github.com/user-attachments/assets/e1658fe4-f839-4661-ada7-2628d45ab8a8" alt="닥터트뤼" width="200"/>
 
 ### [DOCTOR TREAT](https://github.com/ahseonga/DoctorTreat_backend)
 ### 서비스 제작 배경
@@ -31,7 +31,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/30bbbb68-c8d5-4ad0-8f49-f41e6f613e67" alt="씨지브이" width="150"/>
+<img src="https://github.com/user-attachments/assets/30bbbb68-c8d5-4ad0-8f49-f41e6f613e67" alt="씨지브이" width="200"/>
 
 ### [CGV 클론코딩](https://github.com/ahseonga/clonecoding)
 - CGV 예매 사이트의 메인페이지 클론코딩을 진행하였습니다.
