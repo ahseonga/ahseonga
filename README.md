@@ -17,6 +17,7 @@
 - 이 서비스는 편의성과 시간 단축은 물론, 의료 접근성을 높이고 의료 인프라를 최적화하는 것을 목표로 개발되었습니다.
 
 ### [맛있는 재활용](https://github.com/ahseonga/DR_backend)
+https://github.com/ahseonga/ahseonga/issues/1#issue-2686210943
 ### 서비스 제작 배경
 
 - 음식물쓰레기 감소를 위한 챗봇레시피 서비스입니다.
