@@ -11,17 +11,6 @@
 
 ## 📁 Projects
 
-<img src="https://github.com/user-attachments/assets/e1658fe4-f839-4661-ada7-2628d45ab8a8" alt="닥터트뤼" width="200"/>
-
-### [DOCTOR TREAT](https://github.com/ahseonga/DoctorTreat_backend)
-
-### 서비스 제작 배경
-
-- 닥터트리는 코로나 재유행 및 현대인의 편의성 향상을 위해 비대면 진료와 처방전을 통합 제공하는 플랫폼입니다.
-- 이 서비스는 편의성과 시간 단축은 물론, 의료 접근성을 높이고 의료 인프라를 최적화하는 것을 목표로 개발되었습니다.
-
-<br>
-
 <img src="https://github.com/user-attachments/assets/5b7e7f19-d182-4258-8b59-097cd9d4403c" alt="logo" width="150"/>
 
 ### [맛있는 재활용](https://github.com/ahseonga/DR_backend)
@@ -33,7 +22,18 @@
 
 <br>
 
+<img src="https://github.com/user-attachments/assets/e1658fe4-f839-4661-ada7-2628d45ab8a8" alt="닥터트뤼" width="200"/>
+
+### [DOCTOR TREAT](https://github.com/ahseonga/DoctorTreat_backend)
+
+### 서비스 제작 배경
+
+- 닥터트리는 코로나 재유행 및 현대인의 편의성 향상을 위해 비대면 진료와 처방전을 통합 제공하는 플랫폼입니다.
+- 이 서비스는 편의성과 시간 단축은 물론, 의료 접근성을 높이고 의료 인프라를 최적화하는 것을 목표로 개발되었습니다.
+
 <img src="https://github.com/user-attachments/assets/30bbbb68-c8d5-4ad0-8f49-f41e6f613e67" alt="씨지브이" width="200"/>
+
+<br>
 
 ### [CGV 클론코딩](https://github.com/ahseonga/clonecoding)
 - CGV 예매 사이트의 메인페이지 클론코딩을 진행하였습니다.
