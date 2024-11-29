@@ -34,7 +34,7 @@
 <br>
 
 
-<img width="200" alt="코딩엔젤" src="https://github.com/user-attachments/assets/bbd6f8e9-aace-49f9-ae01-2e0d3406d845" width="200"/>
+<img width="200" alt="코딩엔젤" src="https://github.com/user-attachments/assets/bbd6f8e9-aace-49f9-ae01-2e0d3406d845" width="150"/>
 
 ### [코딩엔젤](https://github.com/ahseonga/CodingAngel.git)
 - 래퍼사이트는 티몬으로 선정하여 HTML과 CSS, JavaScript를 활용한 로그인, 회원가입, 입접문의 기능과 메인페이지의 배너를 구현 했습니다.
